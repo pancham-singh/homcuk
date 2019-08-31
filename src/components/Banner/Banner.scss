@@ -1,0 +1,90 @@
+@import "../../assets/style-env";
+
+.banner-background {
+  background: url("../../assets/images/banner-image.png") no-repeat;
+  height: 35rem;
+  background-size: cover;
+}
+
+.banner-container {
+  //height: 100vh;
+}
+
+.banner-heading {
+  font-family: $hc-font;
+  font-size: 65px;
+  font-weight: bold;
+  line-height: 0.29;
+  letter-spacing: 0.7px;
+  color: #ffffff;
+}
+
+.banner-subheading {
+  padding-top: 20px;
+  font-size: 33px;
+  line-height: 1.52;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: $hc-default-text-color;
+}
+
+.banner-title {
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.banner-search-container {
+  background: rgba(255, 255, 255, 0.5);
+  height: 85px;
+  border-radius: 50px;
+}
+
+.banner-search {
+  background: blue;
+  border-radius: 40px;
+  margin-top: 10px;
+  height: 67px;
+  margin-right: 1px !important;
+  margin-left: 1px !important;
+  align-items: center;
+}
+
+.search-field-container {
+  background: white;
+  height: 67px;
+}
+
+.search-field-container-xs {
+  background: white;
+  height: 67px;
+  border-radius: 30px;
+}
+
+.search-btn {
+  height: 55px;
+  width: 100%;
+  padding: 10px !important;
+  font-family: $hc-font;
+  font-size: 18px;
+}
+
+.search-btn-xs {
+  margin: 10px !important;
+  height: 55px;
+  width: 200px !important;
+  padding: 10px !important;
+  font-family: $hc-font;
+  font-size: 18px;
+}
+
+.places-input {
+  width: 100% !important;
+  height: 67px !important;
+  border: none;
+}
+.places-container{
+  z-index: 1000 !important;
+  background: white;
+  color: black;
+}
+

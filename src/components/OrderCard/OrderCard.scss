@@ -1,0 +1,85 @@
+@import "../../assets/style-env";
+
+.dish-image-order{
+  width:62px;
+  height: 49px;
+}
+.name-address{
+  display: flex !important;
+}
+.order-dish-name{
+  font-family: $hc-font;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+}
+.order-address{
+  font-family: $hc-font;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+  color: $hc-text-color-3;
+
+}
+.card-p{
+  margin: 0 !important;
+  margin-bottom: 0px !important;
+}
+.order-date{
+  font-family: $hc-font;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+}
+.order-heading{
+  margin-left: 5px;
+}
+.order-dish-name{
+  font-family: $hc-font;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+}
+
+.order-dish-address{
+  font-family: $hc-font;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+  color: $hc-text-color-3;
+}
+
+.order-name{
+  font-family: $hc-font;
+  font-size: 12px;
+  line-height: 2.17;
+  letter-spacing: 0.4px;
+}
+.order-number{
+  font-family: $hc-font;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+  color: $hc-text-color-4
+}
+.order-btn{
+  width: 115px !important;
+  font-family: $hc-font;
+  height: 30px !important;
+  border-radius: 5px;
+  border: solid 1px #d5d5d6;
+  font-size: 12px !important;
+  font-weight: 300;
+  color: #3e3d3d;
+}
+
+.details-button{
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+.status-icons-success{
+  color:green !important;
+}
+.order-status{
+  font-family: $hc-font;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 5px;
+}

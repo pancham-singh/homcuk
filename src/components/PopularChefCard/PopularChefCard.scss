@@ -1,0 +1,23 @@
+@import "../../assets/style-env";
+
+.pop-chef-name{
+  font-size: 16px !important;
+  color: $hc-text-color-3 !important;
+  font-family: $hc-font;
+  font-weight: 600;
+}
+.pop-chef-location{
+  font-size: 15px !important;
+  color: $hc-primary-text-color !important;
+  font-family: $hc-font !important;
+  font-weight: 600;
+
+}
+
+.pop-chef-offer{
+  font-size: 15px !important;
+  color: $hc-primary-text-color !important;
+  font-family: $hc-font !important;
+  font-weight: 600;
+
+}

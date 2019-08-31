@@ -1,0 +1,8 @@
+{
+  "name": "Login",
+  "main": "Login.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

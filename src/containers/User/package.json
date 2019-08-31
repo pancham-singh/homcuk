@@ -1,0 +1,8 @@
+{
+  "name": "User",
+  "main": "User.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Header",
+  "main": "Header.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

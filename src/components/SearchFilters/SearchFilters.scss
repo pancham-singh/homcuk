@@ -1,0 +1,36 @@
+@import "../../assets/style-env";
+
+.side-bar{
+  z-index: 500 !important;
+  width: 16rem !important;
+}
+.filters{
+  font-size: 16px;
+  font-family: $hc-font;
+  font-weight: 600;
+}
+.cat-name{
+  font-size: 14px !important;
+  font-family: $hc-font !important;
+  font-weight: 600 !important;
+  color:$hc-text-color-3 !important;
+}
+.cat-text{
+  font-size: 14px !important;
+  font-family: $hc-font !important;
+  font-weight: 700 !important;
+  color:$hc-primary-color !important;
+  margin-left: 20px !important;
+}
+.filter-name{
+  font-size: 14px !important;
+  font-family: $hc-font !important;
+  font-weight: 600 !important;
+  color:$hc-text-color-3 !important;
+}
+.filter-value{
+  font-size: 14px !important;
+  font-family: $hc-font !important;
+  font-weight: 600 !important;
+  color:$hc-text-color-4 !important;
+}

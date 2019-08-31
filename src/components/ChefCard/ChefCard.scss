@@ -1,0 +1,50 @@
+@import "../../assets/style-env";
+.chef-card-image{
+  width: 100px;
+  height: 100px;
+}
+
+.chef-card-chef-name{
+  font-size: 16px !important;
+  color: $hc-text-color-3 !important;
+  font-family: $hc-font;
+  font-weight: 600;
+}
+.chef-card-chef-location{
+  font-size: 16px !important;
+  color: $hc-text-color-4 !important;
+  font-family: $hc-font;
+}
+.chef-card-chef-address{
+  font-size: 12px !important;
+  color: $hc-primary-text-color !important;
+  font-family: $hc-font;
+}
+.chef-card-dish-prop{
+  font-size: 16px !important;
+  color: $hc-primary-text-color !important;
+  font-family: $hc-font;
+}
+.chef-card-dish-value{
+  font-size: 16px !important;
+  color: $hc-text-color-3 !important;
+  font-family: $hc-font;
+}
+.veg-only{
+  font-size: 16px !important;
+  font-family: $hc-font;
+  font-weight: 600;
+}
+.chef-card-rating{
+  background-color: green !important;
+}
+.chef-reviews{
+  font-size: 12px !important;
+  font-family: $hc-font;
+  font-weight: 300;
+
+}
+.chef-card-button{
+  font-family: $hc-font !important;
+font-weight: 600 !important;
+}

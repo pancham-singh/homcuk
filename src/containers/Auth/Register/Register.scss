@@ -1,0 +1,152 @@
+@import "../../../assets/style-env";
+
+.register-container {
+  background-image: url("../../../assets/images/blue-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.hc-google-icon {
+  background-image: url("../../../assets/images/google-background.png");
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hc-fb-icon {
+  background-image: url("../../../assets/images/fb-background.png");
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hc-icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hc-user-types {
+  display: flex;
+  justify-content: space-around
+}
+
+.hc-remove-border {
+  border-radius: 0px !important;
+}
+
+.hc-top-text {
+  font-family: $hc-font;
+  font-size: 14px;
+  line-height: 4.79;
+  letter-spacing: 0.6px;
+  color: #acaaaa;
+}
+
+.hc-name {
+  font-family: $hc-font;
+  font-size: 39px;
+  line-height: 0.18;
+  letter-spacing: 0.8px;
+  color: #010101;
+  margin-top: 40px;
+}
+
+.hc-subtitle {
+  font-family: $hc-font;
+  font-size: 21px;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #857e7e;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.hc-user-type {
+  font-family: $hc-font;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.94;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+}
+
+.hc-register-inputs {
+  font-family: $hc-font !important;
+  font-size: 13px !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.5px !important;
+  text-align: left !important;
+  color: #6b6c6d !important;
+}
+
+.hc-description {
+  font-family: $hc-font;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.85;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #9e9e9f;
+}
+
+.hc-register-submit {
+  //width: 340px;
+  height: 55px;
+  font-family: $hc-font;
+  font-size: 16px !important;
+  letter-spacing: 0.3px;
+  color: #f3f4f6;
+}
+
+.hc-bottom-text {
+  padding-top: 20px;
+}
+
+.hc-connect {
+  font-family: $hc-font;
+  font-size: 21px;
+  line-height: 1.43;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #000000;
+}
+.hc-connect-xs {
+  font-family: $hc-font;
+  font-size: 16px;
+  line-height: 1.43;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #000000;
+}
+.hc-line {
+  //height: 1px;
+  border-top-color: #0d0d0d;
+  color: #0d0d0d;
+}
+
+.hc-remove-padding {
+  padding: 0px;
+}
+
+.hc-error {
+  font-family: $hc-font;
+  margin: 5px;
+  padding: 0px;
+  font-size: 12px;
+}

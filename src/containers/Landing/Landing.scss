@@ -1,0 +1,120 @@
+@import "../../assets/style-env";
+.landing-container{
+  margin-top: 40px
+
+}
+.landing-heading{
+  font-family: $hc-font;
+  font-size: 54px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #000000;
+}
+.follow-the-steps {
+  font-family: $hc-font;
+  font-size: 23px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.7px;
+  text-align: center;
+
+  color: #8b8989;
+}
+
+.highlighted-text{
+  font-weight: 500;
+  color: $hc-primary-color;
+}
+.display-text{
+  font-family: $hc-font;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.56;
+  letter-spacing: 1px;
+  color: $hc-secondary-text-color;
+}
+
+.display-text-2{
+  font-family: $hc-font;
+  font-size: 17px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.39;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #4a494a;
+}
+
+.news-letter-container{
+  background: $hc-primary-color;
+  display: flex;
+  justify-content: center;
+}
+.heading-news-letter{
+  font-family: $hc-font;
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 2.39;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+}
+.input-email{
+  border-top-left-radius: 25px !important;
+  border-bottom-left-radius: 25px !important;
+  height: 50px !important;
+  background: rgba(248, 22, 112, 0.5) !important;
+  color: #ffffff !important;
+  font-family: $hc-font !important;
+  width: 300px !important;
+
+}
+.input-email::placeholder{
+  color: #ffffff !important;
+  font-family: $hc-font !important;
+
+
+}
+.submit-button-letter{
+  background-color: #ffffff !important;
+  font-family: $hc-font !important;
+  font-size: 14px !important;
+  color: $hc-text-color-1 !important;
+  width: 150px !important;
+  border-top-right-radius: 25px!important;
+  border-bottom-right-radius: 25px!important;
+
+
+}
+.inputs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.steps-image{
+  height: 200px !important;
+  width: 100%;
+  object-fit: contain;
+}
+.steps{
+  text-align: center;
+}
+.food-image{
+  height: 356px !important;
+  width: 100%;
+  object-fit: fill;
+
+}
+.remove-row-padding{
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}

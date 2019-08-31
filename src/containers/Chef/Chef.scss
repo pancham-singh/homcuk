@@ -1,0 +1,35 @@
+.banner-image{
+height: 210px;
+  width: 100%;
+}
+.chef-container{
+  background-image: url("../../assets/images/body-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.remove-col-padding{
+  padding:0 !important;
+}
+
+.chef-pages{
+  padding-top:100px !important;
+  padding-bottom: 20px !important;
+
+}
+.chef-name{
+  margin:5px !important;;
+}
+.chef-view{
+  height: 100vh !important;
+}
+.div-banner{
+  //background-image: url("../../assets/images/top-bg.jpg");
+  height: 197px;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  color: white;
+}

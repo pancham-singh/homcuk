@@ -1,0 +1,46 @@
+@import "../../assets/style-env";
+
+.order-image{
+  width:200px;
+  height: 190px;
+}
+
+.button-text{
+  font-family: $hc-font !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+}
+.order-chef-name{
+  font-family: $hc-font;
+  font-weight: 600 !important;
+  font-size: 16px;
+  color: $hc-text-color-4;
+}
+.order-cuisine-name{
+  font-family: $hc-font;
+  font-size: 16px;
+  color: $hc-primary-color;
+}
+.order-name{
+  font-family: $hc-font;
+  font-size: 16px;
+  color:$hc-text-color-3
+}
+.order-status{
+  font-family: $hc-font;
+  font-size: 14px;
+  color:$hc-text-color-3
+}
+.order-dish-name{
+  font-family: $hc-font;
+  font-size: 16px;
+}
+.order-price{
+  font-family: $hc-font;
+  font-size: 16px;
+  color:$hc-text-color-3
+
+}
+.bottom-line{
+  border-bottom: 1.5px dotted lightgray ;
+}

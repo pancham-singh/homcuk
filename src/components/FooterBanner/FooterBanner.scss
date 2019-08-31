@@ -1,0 +1,48 @@
+@import "../../assets/style-env";
+
+.banner-background-footer{
+  background: url("../../assets/images/footer-banner (1).png") no-repeat;
+  //height: 100vh;
+  background-size: cover;
+
+}
+.banner-content{
+  margin-top: 10px;
+}
+.banner-apps{
+  margin-top: 90px;
+}
+.banner-container{
+  //height: 80vh;
+
+}
+
+.apps-image{
+  //height: 70vh;
+  width:100%;
+  object-fit: contain;
+
+}
+.app-images{
+  height: 55px;
+  width: 180px;
+  margin-top: 10px;
+}
+.banner-heading{
+  font-family: $hc-font;
+  font-size: 53px;
+  line-height: 1.32;
+  letter-spacing: -0.5px;
+  color: #ffffff;
+}
+.banner-subheading{
+  font-family: $hc-font;
+  font-size: 21px;
+  line-height: 1.52;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #e2e1e1;
+}
+.bottom-side{
+
+}

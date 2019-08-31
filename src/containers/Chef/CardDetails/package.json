@@ -1,0 +1,8 @@
+{
+  "name": "CardDetails",
+  "main": "CardDetails.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

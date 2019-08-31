@@ -1,0 +1,8 @@
+{
+  "name": "OrderCard",
+  "main": "OrderCard.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

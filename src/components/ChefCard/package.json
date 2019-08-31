@@ -1,0 +1,8 @@
+{
+  "name": "ChefCard",
+  "main": "ChefCard.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

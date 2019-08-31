@@ -1,0 +1,8 @@
+{
+  "name": "Banner",
+  "main": "Banner.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

@@ -1,0 +1,21 @@
+@import "../../assets/style-env";
+
+.logo-main {
+  width: 40% !important;
+  padding: 10px !important;
+  padding-top: 20px !important;
+
+}
+
+.logo-house {
+  object-fit: cover;
+  width: 100%;
+  //padding-top: 50%;
+}
+
+.file-input {
+  display: none;
+}
+.container-background{
+  background: $hc-background;
+}

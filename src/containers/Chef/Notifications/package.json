@@ -1,0 +1,8 @@
+{
+  "name": "Notifications",
+  "main": "Notifications.js",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

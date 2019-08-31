@@ -1,0 +1,15 @@
+@import "../../assets/style-env";
+
+.dish-card-name{
+  font-size: 16px;
+  font-family: $hc-font;
+  font-weight: 600;
+  color: $hc-primary-text-color;
+}
+
+.dish-card-featured{
+  font-size: 12px;
+  font-family: $hc-font;
+  font-weight: 500;
+  color: $hc-primary-text-color;
+}

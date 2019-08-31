@@ -1,0 +1,8 @@
+{
+  "name": "AddressCard",
+  "main": "AddressCard.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

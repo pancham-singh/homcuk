@@ -1,0 +1,32 @@
+@import "../../assets/style-env";
+
+.user-profile-pic{
+  width: 220px;
+  height: 150px;
+}
+.user-profile-head{
+  background: #fffae6;
+}
+.user-name{
+  font-size:18px;
+  font-weight: 600;
+  font-family: $hc-font;
+}
+.user-edit-button{
+  font-family: $hc-font !important;
+  font-weight: 600;
+
+}
+.user-details{
+  font-size:16px;
+  font-family: $hc-font;
+  color: $hc-primary-text-color;
+}
+.user-profile-container{
+  background: #f2f2f2;;
+  border-top: 50px $hc-primary-color solid ;
+}
+.user-profile-button{
+  font-family: $hc-font !important;
+  font-weight: 600 !important;
+}

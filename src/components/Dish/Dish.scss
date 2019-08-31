@@ -1,0 +1,33 @@
+@import "../../assets/style-env";
+
+.dish-image{
+  height: 170px !important;
+width: 250px;
+
+}
+
+.dish{
+  padding:10px;
+}
+.name{
+  font-family: $hc-font;
+  font-size: 15px;
+  font-weight: bold;
+  margin:2px;
+}
+.address{
+  font-family: $hc-font;
+  font-size: 15px;
+  font-weight: 300;
+  margin:2px;
+  color: $hc-text-color-2;
+}
+
+.off{
+  font-family: $hc-font;
+  font-size: 15px;
+  font-weight: 500;
+  color: $hc-primary-color;
+  margin:2px;
+
+}

@@ -1,0 +1,11 @@
+.doc-image{
+  max-width: 290px !important;
+  height: 160px !important;
+  width: 100% !important;
+}
+.text-wrap{
+  white-space: nowrap !important;
+  //width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

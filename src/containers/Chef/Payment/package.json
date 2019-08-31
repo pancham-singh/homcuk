@@ -1,0 +1,8 @@
+{
+  "name": "Payment",
+  "main": "Payment.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

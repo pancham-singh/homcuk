@@ -1,0 +1,122 @@
+@import "../../../assets/style-env";
+.hc-login {
+  background-image: url("../../../assets/images/grey-bg.jpg");
+  background-size: cover;
+}
+
+
+.hc-login-left {
+  background-image: url("../../../assets/images/login-left.jpg");
+  //height: 100vh;
+}
+.login-container-view{
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.remove-padding-container{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.hc-login-title {
+  font-family: $hc-font;
+  font-size: 48px;
+  letter-spacing: 1.9px;
+  margin-top: 138px
+}
+
+.hc-login-subTitle {
+  font-family: $hc-font;
+  font-size: 23px;
+  margin-top: 29px
+}
+
+.hc-line {
+  height: 15px !important;
+}
+
+.hc-forgot-password {
+  font-family: $hc-font;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  color: $hc-primary-text-color;
+}
+
+.hc-remember-email {
+  font-family: $hc-font;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+  color: $hc-primary-text-color;
+}
+
+.hc-connect-with {
+  font-family: $hc-font;
+  font-size: 21px;
+  letter-spacing: 0.8px;
+  color: $hc-default-text-color;
+}
+
+.hc-remove-rt-lt-padding{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.hc-google-icon{
+  background-image: url("../../../assets/images/google-background.png");
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hc-fb-icon{
+  background-image: url("../../../assets/images/fb-background.png");
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hc-icons-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hc-signup-text{
+  font-family: $hc-font;
+  font-size: 14px;
+  letter-spacing: 0.6px;
+  font-weight: 500;
+  color: $hc-default-text-color;
+}
+.hc-left-title{
+  margin-top: 138px;
+  font-family: $hc-font;
+  font-size: 27px;
+  font-weight: 500;
+  color: #fefefe;
+}
+.hc-left-subTitle{
+  font-family: $hc-font;
+  font-size: 21px;
+  font-weight: 300;
+  color: #cdcdcd;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.hc-submit-text{
+  font-family: $hc-font;
+  font-size: 20px !important;
+  letter-spacing: 0.4px;
+  width: 200px;
+  height: 50px !important;
+  padding:0px !important;
+  color: #ffffff;
+}
+

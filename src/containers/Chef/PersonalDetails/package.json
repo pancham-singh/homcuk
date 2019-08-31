@@ -1,0 +1,8 @@
+{
+  "name": "PersonalDetails",
+  "main": "PersonalDetails.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

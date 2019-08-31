@@ -1,0 +1,8 @@
+{
+  "name": "DishCard",
+  "main": "DishCard.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

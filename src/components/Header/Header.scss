@@ -1,0 +1,97 @@
+@import "../../assets/style-env";
+
+.header-container {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.become-chef-btn {
+  width: 179px;
+  height: 41px;
+}
+.become-chef-btn-xs {
+  width: 150px;
+  height: 41px;
+  font-size: 10px !important;
+  font-weight: bold !important;
+}
+.header-row {
+  width: 100%;
+}
+
+.hc-login-divider {
+  border-right: 1px solid lightslategrey !important;
+  height: 16px;
+  vertical-align: middle !important;
+  margin-top: 10px;
+}
+
+.hc-header-button {
+  padding: 10px !important;
+  z-index: 1000;
+  font-family: $hc-font;
+  font-weight: 600 !important;
+}
+
+.hc-header-toggle-button {
+  padding: 10px !important;
+  width: 50px;
+  border-radius: 10px !important;
+}
+
+.hc-header-hambarger-image {
+  width: 29px;
+  height: 20px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+
+.hc-logo {
+  height: 60px;
+}
+
+.avatar {
+  max-width: 50px !important;
+  height: 50px !important;
+}
+
+.user-menu {
+  padding: 0px !important;
+  top: -5px;
+  position: fixed !important;
+}
+
+.hc-menu-button {
+  padding: 10px !important;
+  z-index: 1000;
+  margin: 0px !important;
+  padding: 0px !important;
+  position: fixed !important;
+  top: 0px !important;
+}
+
+.menu-xs {
+  //position: relative !important;
+  left: 0px !important;
+}
+
+.spacer {
+  width: 17%
+}
+.spacer-xl {
+  width: 15%
+}
+
+.toggler {
+  background: $hc-primary-color !important;
+}
+
+.menu-center {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.button-auth {
+  width: 70px !important;
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "Register",
+  "main": "Register.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}

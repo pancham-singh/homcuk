@@ -1,0 +1,23 @@
+@import "../../../assets/style-env";
+
+.step-active{
+  border-left: 7px solid $hc-primary-color !important;
+  font-family: $hc-font;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.12;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #000000;
+}
+.step{
+  font-family: $hc-font;
+  font-size: 17px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.12;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #000000;
+}
