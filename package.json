@@ -10,7 +10,7 @@
     "@types/react": "16.8.14",
     "@types/react-dom": "16.8.4",
     "@types/react-redux": "^7.0.8",
-    "axios": "^0.18.0",
+    "axios": "^1.8.2",
     "font-awesome": "^4.7.0",
     "joi-browser": "^13.4.0",
     "mdbreact": "git+https://oauth2:Ty_TaiWVPYzi_s7EGK5S@git.mdbootstrap.com/mdb/react/re-pro.git",
